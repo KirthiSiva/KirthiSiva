@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am currently a grade 10 student at BHSS who aspires to become a programmer in the future
+- I am currently a grade 10 student who aspires to become a programmer in the future
 - I am currently learning basic programming skills and would like to extend my learning
 - I am looking for help to become fluent in multiple programming languages
 - Fun fact: I love computers! 
